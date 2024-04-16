@@ -3,5 +3,5 @@ services:
     plan: free
     name: curriculum-42
     runtime: python
-    buildCommand: "./build.sh"
+    buildCommand: "./build-server.sh"
     startCommand: "./run-server.sh"
