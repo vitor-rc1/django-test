@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-w7$!tl*o61#c0%&fv0&ljw4rql(p1vmnjw5^%ep-t+rn!yohi+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://curriculum-42.onrender.com/']
 
 
 # Application definition
