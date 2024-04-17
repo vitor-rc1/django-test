@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-w7$!tl*o61#c0%&fv0&ljw4rql(p1vmnjw5^%ep-t+rn!yohi+
 DEBUG = 'RENDER' not in os.environ
 
 ALLOWED_HOSTS = [
-    'https://curriculum-42.onrender.com/'
+    '*'
 ]
 
 
